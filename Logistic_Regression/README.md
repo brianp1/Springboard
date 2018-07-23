@@ -1,0 +1,2 @@
+# Logistic Regression
+We explore the mechanism and fundamentals of discriminative classifiers, particularly logistic regression. We practice tuning hyperparameters using both k-fold cross validation and grid search. We begin to touch on the role of maximum likelihood estimation and the extent of probability in discriminative classifiers.

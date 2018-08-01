@@ -1,0 +1,3 @@
+# Naive Bayes Text Analysis for Rotten Tomato Reviews
+
+We explored the Multinomial Bayes function in sklearn and applied it to the prediction of a particular review being in the 'fresh' or 'not fresh' class. We calculated the probabilities that given a word in a review what is the likelihood that the reviewer rated that movie as positive or negative. In addition, we tuned the hyper-parameter alpha and examined the strongest features in our data set.
